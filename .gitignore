@@ -68,3 +68,6 @@ dump.rdb
 *.env.local
 *.env.staging
 .devcontainer/.blockscout_config
+
+node_modules/
+nohup.out
